@@ -1,0 +1,13 @@
+.image__visible{
+    visibility: visible;
+    background-color: rgba(0, 0, 0, 0.85);
+    opacity: 1;
+    height: 5000px;
+    width: 1280px;
+    }
+
+    @media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+
+}

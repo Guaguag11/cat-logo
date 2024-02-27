@@ -1,0 +1,16 @@
+.card__info{
+    border: 1px solid blue;
+    background-color: rgb(171, 233, 106);
+    width: 200px;
+    position: absolute;
+    bottom: 30px;
+    display: flex;
+}
+
+@media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+.card__info{
+    margin-top: 20px;
+}
+}

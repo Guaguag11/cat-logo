@@ -1,0 +1,15 @@
+.header__name{
+    font-size: 150px;
+    position: absolute;
+    color: rgb(231 245 60);
+    font-family: sans-serif;
+    top: 40px
+}
+
+@media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+.header__name{
+    font-size: xx-large;
+}
+}

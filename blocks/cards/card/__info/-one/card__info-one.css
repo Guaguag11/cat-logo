@@ -1,0 +1,14 @@
+.card__info-one{
+    right: -81px;
+    width: 225px;
+    top: 30px;
+    height: 95px;
+}
+
+@media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+.card__info-one{
+    right: -1px;
+}
+}

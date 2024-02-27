@@ -1,0 +1,23 @@
+.image__close{
+    background-color: rgba(176, 113, 113, 0);
+    height: 85px;
+    width: 85px;
+    border: none;
+    color: rgb(14, 239, 22);
+    font-weight: bold;
+    font-size: 40px;
+    opacity: 100%;
+    align-self: flex-end;
+    padding-right: 118px;
+}
+
+.image__close:hover{
+    cursor: pointer;
+    opacity: 30%;
+}
+
+@media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+
+}

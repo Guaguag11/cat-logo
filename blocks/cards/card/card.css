@@ -1,0 +1,16 @@
+.card{
+    position: relative;
+    width: 420px;
+    height: auto;
+}
+
+@media screen and (min-width: 768px)and (max-width:1024px){}
+
+@media screen and (min-width: 320px) and (max-width:768px){
+.card{
+    width: 403px;
+    height: auto;
+    margin-top: 56px;
+
+}
+}
